@@ -7,7 +7,7 @@
 body{
     background-color: black; 
 }
-
+/* header/nav/hero settings */
 header {
     display: flex;
     flex-wrap: wrap;
@@ -48,7 +48,7 @@ ul li {
     background-position: center;
     margin-bottom: 1px; 
 }
-
+/* main section settings */
 main{
     margin:10px;
     width:100%;
@@ -74,7 +74,7 @@ p{
     color:red
 }
 
-
+/* image and icon settings */
  .images { 
     border-left: 6px solid red;
     margin: 15px; 
@@ -98,7 +98,7 @@ p{
     width:max-content
 
 }
-
+/* footer properties */
 footer {
     margin:11px;
     padding:15.5px;
